@@ -122,7 +122,7 @@ refactoring your code.
 **For this reason GaufretteStorage if probably the most flexible solution and your
 best choice as storage service.**
 
-If you don't need this level of abstraction, if you preferer to
+If you don't need this level of abstraction, if you prefer to
 keep things simple, or if your just don't feel confortable working
 with gaufrette you can go with FileSystemStorage.
 
